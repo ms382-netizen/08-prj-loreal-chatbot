@@ -1,5 +1,4 @@
-// Paste your deployed Cloudflare Worker URL here (after Step 6)
-const WORKER_URL = "https://YOUR-WORKER-NAME.YOUR-SUBDOMAIN.workers.dev";
+const WORKER_URL = "https://loreal-chatbot.maryamcontentw.workers.dev";
 
 const chatForm = document.getElementById("chatForm");
 const userInput = document.getElementById("userInput");
